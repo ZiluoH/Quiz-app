@@ -1,22 +1,22 @@
 var questionlist = [
   {
-  	question: "question1",
-  	answer: "1"
+  	question: "How many colors in a rainbow?",
+  	answer: "7"
   },
   {
-  	question:"Q2",
-  	answer:"2"
+  	question:"What is the capital city of California?",
+  	answer:"Sacramento"
   },
   {
-  	question:"Q3",
-  	answer:"three"
+  	question:"5 + 6 = ?",
+  	answer:"11"
   },
    {
-  	question:"Q4",
-  	answer:"4"
+  	question:"Which team will win NBA Championship this year?",
+  	answer:"Spurs"
   }, {
-  	question:"Q5",
-  	answer:"five"
+  	question:"The country which ranks the 2nd in term of land area is",
+  	answer:"Canada"
   },
 ]
 
