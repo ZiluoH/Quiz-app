@@ -1,1 +1,11 @@
-*
+#questionlist{
+	list-style-type: none;
+}
+
+#correct{
+	color: red;
+}
+
+#wrong{
+	color: blue;
+}
